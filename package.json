@@ -1,0 +1,11 @@
+{
+  "name": "pruebasunitarias_practica",
+  "version": "1.0.0",
+  "description": "s",
+  "main": "sumaArray.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "author": "",
+  "license": "ISC"
+}
